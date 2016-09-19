@@ -8,7 +8,7 @@
 
 ### Slackに参加
 LINEの他にSlackを活用していきたいと思っています<br>
-代表にメールアドレスを伝えていただければ招待します<br>
+@leafia78にメールアドレスを伝えていただければ招待します<br>
 
 ### GitHub
 tento.techのorganizationsに招待するのでGitHubアカウントを教えてください<br>
